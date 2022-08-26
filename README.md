@@ -5,7 +5,7 @@
 [Socket's documentation](https://docs.python.org/3/library/socket.html) \
 [Source](https://youtu.be/TNNNAxxT-8I)
 
-## Example
+## Example in code
 ```
 #Importing "Socket" module
 import socket
@@ -28,4 +28,8 @@ def main():
 
 #Starting our program
 if __name__ == '__main__':
-    main()```
+    main()
+```
+
+## Example
+[Getting Youtube's ip address🤨](https://github.com/manixonex/basicipreceiver/blob/main/images/example.png)
