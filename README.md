@@ -32,4 +32,4 @@ if __name__ == '__main__':
 ```
 
 ## Example
-[Getting Youtube's ip address🤨](https://github.com/manixonex/basicipreceiver/blob/main/images/example.png)
+![Getting Youtube's ip address🤨](https://github.com/manixonex/basicipreceiver/blob/main/images/example.png)
