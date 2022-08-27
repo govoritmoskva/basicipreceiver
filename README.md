@@ -1,11 +1,11 @@
 # IP Receiver
 **IP Receiver** - a program on Python that can get an IP address by just entering a web address. 
 
-### Links
+### 🛠Links
 [Socket's documentation](https://docs.python.org/3/library/socket.html) \
 [Source](https://youtu.be/TNNNAxxT-8I)
 
-## Example in code
+## 📁Example in code
 ```
 #Importing "Socket" module
 import socket
@@ -31,5 +31,5 @@ if __name__ == '__main__':
     main()
 ```
 
-## Example
+## 💻Example
 ![Getting Youtube's ip address🤨](https://github.com/manixonex/basicipreceiver/blob/main/images/example.png)
